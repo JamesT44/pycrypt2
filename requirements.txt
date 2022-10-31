@@ -1,0 +1,11 @@
+cppimport
+joblib
+matplotlib
+numpy
+pandas
+pybind11
+pyperclip
+scikit-learn
+scipy
+sympy
+wordsegment
